@@ -34,7 +34,7 @@ export default class App extends React.Component {
       <View style={{ flex: 1, justifyContent: "center" }}>
         <Text
           style={{
-            paddingTop: 15,
+            paddingTop: 10,
             paddingBottom: 10,
             marginTop: 50,
             fontSize: 23,
@@ -49,7 +49,7 @@ export default class App extends React.Component {
         <Image
           source={item.image}
           style={{
-            marginTop: 25,
+            marginTop: 15,
             alignSelf: "center",
             resizeMode: "contain",
             height: 100,
