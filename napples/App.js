@@ -49,7 +49,7 @@ export default class App extends React.Component {
         <Image
           source={item.image}
           style={{
-            marginTop: 25,
+            marginTop: 104,
             alignSelf: "center",
             resizeMode: "contain",
             height: 100,
